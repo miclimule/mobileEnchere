@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">enchere</string>
+    <string name="title_activity_main">enchere</string>
+    <string name="package_name">ionic.enchere</string>
+    <string name="custom_url_scheme">ionic.enchere</string>
+</resources>

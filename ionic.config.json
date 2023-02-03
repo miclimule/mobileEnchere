@@ -1,0 +1,7 @@
+{
+  "name": "enchere",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

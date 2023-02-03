@@ -1,0 +1,5 @@
+package ionic.enchere;
+
+import com.getcapacitor.BridgeActivity;
+
+public class MainActivity extends BridgeActivity {}
